@@ -18,6 +18,6 @@ https://blog.csdn.net/qq_49491645/article/details/148216676
 
 1、处理过程不包括掩膜坏波段
 
-2、在 ViewSpecPro 中对所有.asd文件，进行Reflectance/Transmittance处理，全部ASCⅡ导出（导出时选中reflectance,print header information）
+2、处理前，在 ViewSpecPro 中对所有.asd文件，进行Reflectance/Transmittance处理，全部ASCⅡ导出（导出时选中reflectance,print header information）
 
 3、参数、路径、文件名请自行设置
